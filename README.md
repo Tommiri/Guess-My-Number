@@ -8,4 +8,4 @@ A simple browser game where the objective is to guess a number between 1 and 20.
 
 ## Acknowledgements
 * User interface (HTML/CSS) created by Jonas Schmedtmann  
-* Program functionality (JavaScript) programmed by me
+* Program functionality (JavaScript) programmed by Tommi Riiheläinen
